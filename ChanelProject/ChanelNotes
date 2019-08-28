@@ -1,0 +1,10 @@
+for Chanel Notes
+--Channel Project
+app_page_attreport.html
+ inetpub
+ http://192.168.0.58:81/converter/
+ 
+ 1. Install IIS
+ 2. Install PHP
+ 3. Setup IIS for PHP
+ 
